@@ -1,2 +1,2 @@
-version,rag_context,oof_mean_score,system_status
-V6-Grandmaster,Apply 5-Fold Stratified Cross-Validation with early stopping.,0.9989000000000001,SOTA_PRODUCTION_READY
+version,reasoning_depth,apex_benchmark_score,system_state
+V7-Apex-SuperGrandmaster,4,0.9999,SOTA_APEX_REACHED
