@@ -1,5 +1,5 @@
 {
-  "id": "flashloonarbitrage26/gemma4-developer-agent-core",
+  "id": "flashloonarbitrage26/gemma4-developer-agent-core-engine-v1",
   "title": "Gemma 4 Developer Agent Core Engine V1",
   "code_file": "gemma4_agent_core.py",
   "language": "python",
@@ -9,6 +9,6 @@
   "enable_tpu": "false",
   "enable_internet": "true",
   "dataset_sources": [],
-  "competition_sources": ["google-gemma-4-developer-agent-competition"],
+  "competition_sources": [],
   "kernel_sources": []
 }

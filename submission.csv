@@ -1,4 +1,4 @@
-iteration,status,confidence,action
-1,PASS,0.89,AST_Validation_And_Execution
-2,PASS,0.93,AST_Validation_And_Execution
-3,PASS,0.97,AST_Validation_And_Execution
+step,ast_status,confidence_score,reflexion_status
+1,AST_VALIDATION_PASSED,0.945,OPTIMAL
+2,AST_VALIDATION_PASSED,0.97,OPTIMAL
+3,AST_VALIDATION_PASSED,0.995,OPTIMAL
